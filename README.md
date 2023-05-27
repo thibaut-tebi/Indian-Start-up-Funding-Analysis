@@ -23,9 +23,11 @@ To begin our analysis, we import the necessary libraries and packages that will 
 2. 	Numpy: A fundamental library for scientific computing in Python, providing a range of mathematical functions and support for multi-dimensional arrays. It enables efficient numerical operations on data and is imported as "import numpy as np".
 3. 	Matplotlib: A widely used plotting library that offers various customization options for creating charts, graphs, and plots. It allows us to visualize and communicate our findings effectively. It is imported as "import matplotlib.pyplot as plt".
 
-## Hypothesis
-NULL : Technological industries do not have a higher success rate of being funded
-ALTERNATE : Technological industries have a higher success rate of being funded¶
+## Hypothesis 
+During the analysis process, a null hypothesis is formulated to guide the investigation. Various questions are posed and analyzed to gain insights from the data. Ultimately, the null hypothesis is either accepted or rejected based on the findings derived from the data analysis.
+
+NULL : Technological industries do not have a higher success rate of being funded. 
+ALTERNATE : Technological industries have a higher success rate of being funded
 
 
 ## Questions
