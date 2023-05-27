@@ -7,6 +7,7 @@ This This repositiory presents an analysis of funding received by Indian startup
 
 ## Exploratory Data Analysis (EDA)
 Exploratory Data Analysis (EDA) plays a vital role in understanding and extracting insights from datasets. It allows us to uncover patterns, relationships, and key characteristics of the data. The main objective of this project is to utilize the CRISP-DM framework as a guiding framework for conducting exploratory data analysis (EDA) and extracting valuable insights. The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for data processing. CRISP-DM involves stages that enable a systematic and structured approach to the analysis process. 
+##Introduction
 
 The analysis was performed using the Python programming language and popular libraries such as Pandas, Numpy, and Matplotlib. These libraries facilitated various analysis tasks, including examining individual variables, exploring relationships between variables, analyzing correlations, and handling duplicate and missing data. 
 
