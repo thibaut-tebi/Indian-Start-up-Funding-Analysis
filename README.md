@@ -86,3 +86,7 @@ The following steps were taken to handle the issues with the datasets
 
 From the above, the company that received the highest fund is Alteria Capital.
 
+2.Which company received the lowest amount of funding?
+![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/58766a72-88f1-4994-be4c-7bf5696059bd)
+SATYA Microcapital received the lowers amount of $ 9.60
+
