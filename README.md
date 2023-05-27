@@ -84,5 +84,5 @@ The following steps were taken to handle the issues with the datasets
 
 ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/773ef327-a3a4-4383-96c6-c9d0b10d7e66)
 
-From the above, the company that received the highest fund is Alteria Capital with an amount of $150 billion
+From the above, the company that received the highest fund is Alteria Capital.
 
