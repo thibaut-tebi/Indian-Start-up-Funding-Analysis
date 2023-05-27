@@ -88,5 +88,15 @@ From the above, the company that received the highest fund is Alteria Capital.
 
 2.Which company received the lowest amount of funding?
 ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/58766a72-88f1-4994-be4c-7bf5696059bd)
-SATYA Microcapital received the lowers amount of $ 9.60
+
+SATYA Microcapital received the lowers amount.
+
+3.  Which Sector received the highest amount of funding?
+ ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/783f2a76-b7ef-41bf-915d-ea64d89d83ac)
+The most funded sector is Technology sector
+
+4. Which Sector received the lowest amount of funding?
+![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/062aedec-9b9c-4b3d-8f83-300b17daa12e)
+The least funded sector is Construction,
+
 
