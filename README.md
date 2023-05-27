@@ -31,6 +31,8 @@ During the analysis process, a null hypothesis is formulated to guide the invest
 
 
 ## Questions
+The following questions were asked to assist in the data analysis process
+
 1. Which company received the most funding?
 2. Which company received the lowest amount of funding?
 3. Which Sector received the highest amount of funding?
