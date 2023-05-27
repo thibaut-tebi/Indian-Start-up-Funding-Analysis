@@ -44,4 +44,21 @@ The following questions were asked to assist in the data analysis process
 9. Does the location affect the funding received?.
 10. Which Sector received the highest funding in 2018?
 
+## Issues with The Data
+
+
+
+
+## Hansling issues with the data
+The following steps were taken to handle the issues with the datasets
+
+1. Analyse the 2018 data separately from the rest
+2. Replace missing data with either N/A or the mode of that column depending on the column data
+3. Move values in the wrong columns to their appropriate columns
+4. Change the datatype of columns to appropriate datatypes
+5. Checked the summary statistics to identify any inconsistencies or outliers in the data.
+6. Removed any duplicate records to ensure a high level of data accuracy.
+7. Adding new columns to the dataset to capture additional information and insights.
+8. Performed advanced techniques such as data imputation, outlier detection and handling, and data normalization to further improve the quality of the data.
+9. Rename columns
 
