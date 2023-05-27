@@ -26,11 +26,20 @@ To begin our analysis, we import the necessary libraries and packages that will 
 ## Hypothesis 
 During the analysis process, a null hypothesis is formulated to guide the investigation. Various questions are posed and analyzed to gain insights from the data. Ultimately, the null hypothesis is either accepted or rejected based on the findings derived from the data analysis.
 
-NULL : Technological industries do not have a higher success rate of being funded. 
-ALTERNATE : Technological industries have a higher success rate of being funded
+1. NULL : Technological industries do not have a higher success rate of being funded. 
+2. ALTERNATE : Technological industries have a higher success rate of being funded
 
 
 ## Questions
-
+1. Which company received the most funding?
+2. Which company received the lowest amount of funding?
+3. Which Sector received the highest amount of funding?
+4. Which Sector received the lowest amount of funding?
+5. Which HeadQuarters recorded the highest amount of funding received?
+6. What is the total amount funding received each year?
+7. what is the average amount received in 2019, 2020 and 2021
+8. At what stage do startups receive the most funding?
+9. Does the location affect the funding received?.
+10. Which Sector received the highest funding in 2018?
 
 
