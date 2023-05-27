@@ -62,7 +62,7 @@ After looking carefully at the data, the following issues were identified
 4. The datatypes of some of the columns need to be changed
 5. One column is unnamed
 
-## Hansling issues with the data
+## Handling issues with the data
 The following steps were taken to handle the issues with the datasets
 
 1. Analyse the 2018 data separately from the rest
@@ -74,4 +74,11 @@ The following steps were taken to handle the issues with the datasets
 7. Adding new columns to the dataset to capture additional information and insights.
 8. Performed advanced techniques such as data imputation, outlier detection and handling, and data normalization to further improve the quality of the data.
 9. Rename columns
+
+
+
+
+## Answering the questions
+
+![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/773ef327-a3a4-4383-96c6-c9d0b10d7e66)
 
