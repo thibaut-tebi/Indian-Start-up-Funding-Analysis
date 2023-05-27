@@ -46,8 +46,13 @@ The following questions were asked to assist in the data analysis process
 
 ## Issues with The Data
 
+After looking carefully at the data, the following issues were identified
 
-
+1. The 2018 Dataset had different and fewer columns
+2. There are missing values
+3. Some values are in the wrong columns
+4. The datatypes of some of the columns need to be changed
+5. One column is unnamed
 
 ## Hansling issues with the data
 The following steps were taken to handle the issues with the datasets
