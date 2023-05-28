@@ -93,10 +93,52 @@ SATYA Microcapital received the lowers amount.
 
 3.  Which Sector received the highest amount of funding?
  ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/783f2a76-b7ef-41bf-915d-ea64d89d83ac)
-The most funded sector is Technology sector
+
+  The most funded sector is Technology sector
 
 4. Which Sector received the lowest amount of funding?
 ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/062aedec-9b9c-4b3d-8f83-300b17daa12e)
-The least funded sector is Construction,
+
+  The least funded sector is Construction. 
+  
+ 5. Which HeadQuarters recorded the highest amount of funding received?
+    ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/8d3aae78-d05f-4ee0-beeb-9962a7b51a9a)
+     Companies in Mumbai have the receiived highest amount of funds.
+     
+  6. What is the total amount funding received each year?
+     ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/5b50dae3-1a2a-4198-90f5-04eeafc3eb19)
+
+       ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/bab9a454-e23f-4a9f-9db1-3f63e83b616d)
+       
+      The total amount received each year in 2019, 2020 and 2021 is 3,856.397 million, 118,821 million, and 228,482.5     million Dollars respectively.
+      
+     
+  7. what is the average amount received in 2019, 2020 and 2021
+    ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/3205a56c-7efb-4b60-ab72-fa76ba6bc089)
+   ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/3efb7403-3a13-4af8-9c98-4d9eec0ff2eb)
+   
+   8. At what stage do startups receive the most funding?
+     ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/3fe9f98b-36d3-4b98-90b6-c77e6543dd82)
+     
+     ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/3300b4f4-e232-479d-a67a-862221a1f096)
+     
+     9. Does the location affect the funding received?
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ## FINDINGS, RECOMMENDATIONS AND CONCLUSIONS
 
 
