@@ -85,7 +85,7 @@ The following questions were asked to assist in the data analysis process
 
 
 The answers to some of the relevants questions above are virsualized using the dashbooard below. 
-![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/57bce112-bdc7-4de4-9184-fa43caa6e993)
+![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/e0e3bcc7-7ec6-4bf3-bb92-54ed5c29fa13)
 
 
 ## Analysis Report:
