@@ -82,8 +82,19 @@ The following steps were taken to handle the issues with the datasets
 ## Answering the questions. 
 
 
-
+The answers to some of the relevants questions above are virsualized using the dashbooard below. 
 ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/57bce112-bdc7-4de4-9184-fa43caa6e993)
+
+
+Analysis Report:
+
+Upon analyzing the datasets for the years 2018, 2019, 2020, and 2021, it became evident that the features and trends in 2018 differed from the subsequent years. Therefore, a separate analysis was conducted for the 2018 dataset. The analysis revealed several key insights.
+
+Firstly, the Technology sector emerged as the most funded sector, receiving a substantial sum of $179.342 billion. This sector demonstrated its dominance in attracting investments. Additionally, it was observed that the headquarters located in Mumbai received the highest funding among all the regions.
+
+Secondly, the average funding received across various sectors during this period amounted to $151 million, indicating a significant level of investment activity. On the other hand, the Construction sector received the least funding, totaling $3.3 million, highlighting its relatively lower appeal to investors.
+
+The analysis of 2018 data reinforced the finding that the Technology sector consistently received the highest funding throughout the entire period from 2018 to 2021. This demonstrates the sustained investment interest in the technology industry over the years.
 
 
 
