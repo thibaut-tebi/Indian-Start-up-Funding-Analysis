@@ -107,13 +107,21 @@ The analysis of 2018 data reinforced the finding that the Technology sector cons
   
   
   
+
+  
+Recommendation:
+
+Based on the analysis of the funding trends from 2018 to 2021, it is clear that the Technology sector has been a frontrunner in attracting investments. This sector has consistently received the highest funding throughout the analyzed period. Therefore, it is recommended for investors and entrepreneurs to explore opportunities within the Technology sector.
+
+Investing in technology-driven startups and ventures can potentially yield favorable returns and provide opportunities for growth and innovation. Startups operating in areas such as software development, artificial intelligence, e-commerce, and digital services have demonstrated their potential for success.
+
+Furthermore, considering the significant funding received by headquarters located in Mumbai, it may be beneficial to explore the startup ecosystem in this region. Mumbai has shown promising potential as a hub for entrepreneurial activities and investments. Collaborating with local startup communities, attending industry events, and engaging with relevant stakeholders in Mumbai can provide valuable networking opportunities and access to potential investment prospects.
+
+Therefore. leveraging the insights gained from the analysis, focusing on the Technology sector, and considering opportunities in Mumbai can enhance the chances of making successful investment decisions and fostering innovation in the startup ecosystem.
   
   
   
   
-  
-  
-  
-  ## FINDINGS, RECOMMENDATIONS AND CONCLUSIONS
+  CONCLUSIONS
 
 
