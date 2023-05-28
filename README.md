@@ -1,5 +1,5 @@
-##### Name: Thibaut Kwadzo Tebi 
-##### Email : thibaut.tebi@azubiafrica.org 
+###### Name: Thibaut Kwadzo Tebi 
+###### Email : thibaut.tebi@azubiafrica.org 
 
 # Indian-Start-up-Funding-Analysis
 
@@ -110,7 +110,7 @@ Furthermore, considering the significant funding received by headquarters locate
 
 ###  CONCLUSIONS
 
-Based on our analysis, we reject the Null Hypothesis because it is clear that Technological industries have a higher success rate of being funded.
+Based on the analysis, the Null Hypothesis is rejected because it is clear that Technological industries have a higher success rate of being funded.
 
 Therefore, leveraging the insights gained from the analysis, focusing on the Technology sector, and considering opportunities in Mumbai can enhance the chances of making successful investment decisions and fostering innovation in the startup ecosystem.
 
