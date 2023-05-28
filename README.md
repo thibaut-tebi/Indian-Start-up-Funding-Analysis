@@ -25,7 +25,7 @@ To begin our analysis, we import the necessary libraries and packages that will 
 
 ### To Gain Data Insights
 
-1. df.shape(): This function provides the total number of rows and columns in the dataset. In our case, the 2018 dataset has 526 rows and 6 columns.
+1. df.shape(): This function provides the total number of rows and columns in the dataset. In our case, the 2018 dataset has 526 rows and 6 columns, 2019 has 89 rows and 9 coluumns 2020 has 1051 rows and 9 columns and 2021 has 1189 rows, 9 columns.
 2. df.head(): This function displays the first five rows of the dataset, giving us a glimpse of the data. Similarly, df.tail() shows the last five rows of the dataset.
 3. df.info(): By using this function, we can obtain information about the dataset, including the column names and their data types. In our 2018 dataset, all columns have the 'object' data type. It also informs us about the number of non-null values in each column.
 
