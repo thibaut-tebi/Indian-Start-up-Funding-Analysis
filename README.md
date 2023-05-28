@@ -77,6 +77,7 @@ The following steps were taken to handle the issues with the datasets
 
 
 
+![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/e6f11c8b-bb38-467e-932f-72d73ef9def2)
 
 ## Answering the questions
 
