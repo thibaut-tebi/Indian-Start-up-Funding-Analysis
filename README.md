@@ -27,7 +27,7 @@ To begin our analysis, we import the necessary libraries and packages that will 
 
 1. df.shape(): This function provides the total number of rows and columns in the dataset. In our case, the 2018 dataset has 526 rows and 6 columns, 2019 has 89 rows and 9 coluumns 2020 has 1051 rows and 9 columns and 2021 has 1189 rows, 9 columns.
 2. df.head(): This function displays the first five rows of the dataset, giving us a glimpse of the data. Similarly, df.tail() shows the last five rows of the dataset.
-3. df.info(): By using this function, we can obtain information about the dataset, including the column names and their data types. In our 2018 dataset, all columns have the 'object' data type. It also informs us about the number of non-null values in each column.
+3. df.info(): By using this function, we can obtain information about the dataset, including the column names and their data types.  It also informs us about the number of non-null values in each column.
 
 By applying these methods to our dataset, we gain a comprehensive understanding of its structure and content. This allows us to identify any initial issues and establish the purpose of our analysis. It helps us define specific problems to be addressed and derive insights for solving them
 
@@ -109,6 +109,10 @@ Furthermore, considering the significant funding received by headquarters locate
 
 
 ###  CONCLUSIONS
+
+Based on our analysis, we reject the Null Hypothesis because it is clear that Technological industries have a higher success rate of being funded.
+
+Therefore, leveraging the insights gained from the analysis, focusing on the Technology sector, and considering opportunities in Mumbai can enhance the chances of making successful investment decisions and fostering innovation in the startup ecosystem.
 
 
 
