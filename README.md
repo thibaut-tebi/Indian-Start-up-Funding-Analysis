@@ -1,5 +1,5 @@
-### Name: Thibaut Kwadzo Tebi 
-### Email : thibaut.tebi@azubiafrica.org 
+##### Name: Thibaut Kwadzo Tebi 
+##### Email : thibaut.tebi@azubiafrica.org 
 
 # Indian-Start-up-Funding-Analysis
 
@@ -61,7 +61,7 @@ The following steps were taken to handle the issues with the datasets
 9. Rename columns.
 
 ## Data Preparation & Cleaning
-During the data preparation and cleaning stage, several steps were taken to ensure the data is ready for analysis. The process was carried out with meticulous attention to detail and aimed to address any issues identified earlier. For the 2018 dataset, cleaning involved removing dashes (-) from the amount column. The Amount column also contain two different currencies “Rupees (₹) and US dollar ($) therefore there was a need to convert the rupees into US dollars. Currency symbols and commas were removed from the amount column, and its data type was changed to float to allow for numeric computations. The amounts without currency symbols were assumed to be in dollars ($). Additionally, a new column, Amount ($), was created to hold the converted dollar values, and converted into float.
+During the data preparation and cleaning stage, several steps were taken to ensure the data is ready for analysis. The process was carried out with meticulous attention to detail and aimed to address any issues identified earlier. For the 2018 dataset, cleaning involved removing dashes (-) from the amount column. The Amount column also contain two different currencies “Rupees (₹) and US dollar ( $ ), therefore there was a need to convert the rupees into US dollars. Currency symbols and commas were removed from the amount column, and its data type was changed to float to allow for numeric computations. The amounts without currency symbols were assumed to be in dollars ($). Additionally, a new column, Amount ($), was created to hold the converted dollar values, and converted into float.
 
 For the combined 2019, 2020, and 2021 datasets, each column underwent individual cleaning. Foreign values in the columns were replaced with either 0 or N/A using the df.replace() function. The data types of the columns were adjusted using df.astype(), and missing values (nan) were filled with the desired values using df.fillna(). Repetitive or irrelevant columns were dropped using df.drop(). Incorrectly placed values were moved to their appropriate columns using df.loc and df.to_numpy(). Furthermore, column names were updated using df.rename() to ensure clarity and consistency.
 With the data now prepared and cleaned, it is ready for analysis and to derive meaningful insights from it. The meticulousness of the cleaning process ensures the accuracy and reliability of the subsequent analysis.
