@@ -16,14 +16,14 @@ The analysis was conducted in a Jupyter Notebook environment, which allowed for 
 
 The dataset was explored to understand its structure, check for missing or duplicated data, and convert variables to appropriate formats when necessary. Descriptive statistics provided a summary of the data, allowing for an understanding of the central tendencies, variations, and distributions of the funding received by Indian startups. Visualizations, such as histograms, scatter plots, and correlation matrices, were created to identify patterns, trends, and relationships between variables.The analysis also involved examining the relationship between funding and the growth of startups, enabling the identification of potential factors influencing success and providing insights for decision-making.
 
-## 1. Import libraries 
+###  Import libraries 
 To begin our analysis, we import the necessary libraries and packages that will be used throughout the process. These libraries include:
 
 1. 	Pandas: A powerful tool for data manipulation and analysis, allowing us to handle and manipulate datasets efficiently. It is imported using the statement "import pandas as pd"
 2. 	Numpy: A fundamental library for scientific computing in Python, providing a range of mathematical functions and support for multi-dimensional arrays. It enables efficient numerical operations on data and is imported as "import numpy as np".
 3. 	Matplotlib: A widely used plotting library that offers various customization options for creating charts, graphs, and plots. It allows us to visualize and communicate our findings effectively. It is imported as "import matplotlib.pyplot as plt".
 
-## 2. To Gain Data Insights
+### To Gain Data Insights
 
 1. df.shape(): This function provides the total number of rows and columns in the dataset. In our case, the 2018 dataset has 526 rows and 6 columns.
 2. df.head(): This function displays the first five rows of the dataset, giving us a glimpse of the data. Similarly, df.tail() shows the last five rows of the dataset.
@@ -31,13 +31,13 @@ To begin our analysis, we import the necessary libraries and packages that will 
 
 By applying these methods to our dataset, we gain a comprehensive understanding of its structure and content. This allows us to identify any initial issues and establish the purpose of our analysis. It helps us define specific problems to be addressed and derive insights for solving them
 
-## 3. Hypothesis 
+###  Hypothesis 
 During the analysis process, a null hypothesis is formulated to guide the investigation. Various questions are posed and analyzed to gain insights from the data. Ultimately, the null hypothesis is either accepted or rejected based on the findings derived from the data analysis.
 
 1. NULL : Technological industries do not have a higher success rate of being funded. 
 2. ALTERNATE : Technological industries have a higher success rate of being funded
 
-## Issues with The Data
+### Issues with The Data
 
 After looking carefully at the data, the following issues were identified
 
@@ -47,7 +47,7 @@ After looking carefully at the data, the following issues were identified
 4. The datatypes of some of the columns need to be changed
 5. One column is unnamed
 
-## Handling issues with the data
+### Handling issues with the data
 The following steps were taken to handle the issues with the datasets
 
 1. Analyse the 2018 data separately from the rest
@@ -60,14 +60,14 @@ The following steps were taken to handle the issues with the datasets
 8. Performed advanced techniques such as data imputation, outlier detection and handling, and data normalization to further improve the quality of the data.
 9. Rename columns.
 
-## Data Preparation & Cleaning
+### Data Preparation & Cleaning
 During the data preparation and cleaning stage, several steps were taken to ensure the data is ready for analysis. The process was carried out with meticulous attention to detail and aimed to address any issues identified earlier. For the 2018 dataset, cleaning involved removing dashes (-) from the amount column. The Amount column also contain two different currencies “Rupees (₹) and US dollar ( $ ), therefore there was a need to convert the rupees into US dollars. Currency symbols and commas were removed from the amount column, and its data type was changed to float to allow for numeric computations. The amounts without currency symbols were assumed to be in dollars ( $ ). Additionally, a new column, Amount ($), was created to hold the converted dollar values, and converted into float.
 
 For the combined 2019, 2020, and 2021 datasets, each column underwent individual cleaning. Foreign values in the columns were replaced with either 0 or N/A using the df.replace() function. The data types of the columns were adjusted using df.astype(), and missing values (nan) were filled with the desired values using df.fillna(). Repetitive or irrelevant columns were dropped using df.drop(). Incorrectly placed values were moved to their appropriate columns using df.loc and df.to_numpy(). Furthermore, column names were updated using df.rename() to ensure clarity and consistency.
 With the data now prepared and cleaned, it is ready for analysis and to derive meaningful insights from it. The meticulousness of the cleaning process ensures the accuracy and reliability of the subsequent analysis.
 
 
-## Questions
+### Questions
 The following questions were asked to assist in the data analysis process
 
 1. Which company received the most funding?
@@ -81,14 +81,14 @@ The following questions were asked to assist in the data analysis process
 9. Does the location affect the funding received?.
 10. Which Sector received the highest funding in 2018?
 
-## Answering the questions. 
+### Answering the questions. 
 
 
 The answers to some of the relevants questions above are virsualized using the dashbooard below. 
 ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/e0e3bcc7-7ec6-4bf3-bb92-54ed5c29fa13)
 
 
-## Analysis Report:
+### Analysis:
 
 Upon analyzing the datasets for the years 2018, 2019, 2020, and 2021, it became evident that the features and trends in 2018 differed from the subsequent years. Therefore, a separate analysis was conducted for the 2018 dataset. The analysis revealed several key insights.
 
@@ -99,14 +99,14 @@ Secondly, the average funding received across various sectors during this period
 The analysis of 2018 data reinforced the finding that the Technology sector consistently received the highest funding throughout the entire period from 2018 to 2021. This demonstrates the sustained investment interest in the technology industry over the years.
 
 
- ## Recommendation:
+### Recommendation:
 
 Based on the analysis of the funding trends from 2018 to 2021, it is clear that the Technology sector has been a frontrunner in attracting investments. This sector has consistently received the highest funding throughout the analyzed period. Therefore, it is recommended for investors and entrepreneurs to explore opportunities within the Technology sector. Investing in technology-driven startups and ventures can potentially yield favorable returns and provide opportunities for growth and innovation. Startups operating in areas such as software development, artificial intelligence, e-commerce, and digital services have demonstrated their potential for success.
 
 Furthermore, considering the significant funding received by headquarters located in Mumbai, it may be beneficial to explore the startup ecosystem in this region. Mumbai has shown promising potential as a hub for entrepreneurial activities and investments. Collaborating with local startup communities, attending industry events, and engaging with relevant stakeholders in Mumbai can provide valuable networking opportunities and access to potential investment prospects.
 
 
-##  CONCLUSIONS
+###  CONCLUSIONS
 
 
 
