@@ -86,7 +86,7 @@ The answers to some of the relevants questions above are virsualized using the d
 ![image](https://github.com/thibaut-tebi/Indian-Start-up-Funding-Analysis/assets/113062383/57bce112-bdc7-4de4-9184-fa43caa6e993)
 
 
-Analysis Report:
+## Analysis Report:
 
 Upon analyzing the datasets for the years 2018, 2019, 2020, and 2021, it became evident that the features and trends in 2018 differed from the subsequent years. Therefore, a separate analysis was conducted for the 2018 dataset. The analysis revealed several key insights.
 
@@ -97,19 +97,7 @@ Secondly, the average funding received across various sectors during this period
 The analysis of 2018 data reinforced the finding that the Technology sector consistently received the highest funding throughout the entire period from 2018 to 2021. This demonstrates the sustained investment interest in the technology industry over the years.
 
 
-
-
-
-
-
-
-  
-  
-  
-  
-
-  
-Recommendation:
+ ## Recommendation:
 
 Based on the analysis of the funding trends from 2018 to 2021, it is clear that the Technology sector has been a frontrunner in attracting investments. This sector has consistently received the highest funding throughout the analyzed period. Therefore, it is recommended for investors and entrepreneurs to explore opportunities within the Technology sector.
 
