@@ -6,7 +6,7 @@
 This This repositiory presents an analysis of funding received by Indian startups from 2018 to 2021 using Exploratory Data Analysis (EDA) techniques. The objective of this analysis was to gain insights into the Indian startup ecosystem, provide valuable information for decision-makers considering entry into the market, and understand the funding and growth patterns of newly launched startups. 
 
 ## Exploratory Data Analysis (EDA)
-Exploratory Data Analysis (EDA) plays a vital role in understanding and extracting insights from datasets. It allows us to uncover patterns, relationships, and key characteristics of the data. The main objective of this project is to utilize the CRISP-DM framework as a guiding framework for conducting exploratory data analysis (EDA) and extracting valuable insights. The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for data processing. CRISP-DM involves stages that enable a systematic and structured approach to the analysis process. 
+Exploratory Data Analysis (EDA) plays a vital role in understanding and extracting insights from datasets. It allows us to uncover patterns, relationships, and key characteristics of the data. The main objective of this project is to utilize the CRISP-DM framework as a guiding framework for conducting exploratory data analysis (EDA) and extracting valuable insights. The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for data processing. 
 
 ## Introduction
 
@@ -37,21 +37,6 @@ During the analysis process, a null hypothesis is formulated to guide the invest
 1. NULL : Technological industries do not have a higher success rate of being funded. 
 2. ALTERNATE : Technological industries have a higher success rate of being funded
 
-
-## Questions
-The following questions were asked to assist in the data analysis process
-
-1. Which company received the most funding?
-2. Which company received the lowest amount of funding?
-3. Which Sector received the highest amount of funding?
-4. Which Sector received the lowest amount of funding?
-5. Which HeadQuarters recorded the highest amount of funding received?
-6. What is the total amount funding received each year?
-7. what is the average amount received in 2019, 2020 and 2021
-8. At what stage do startups receive the most funding?
-9. Does the location affect the funding received?.
-10. Which Sector received the highest funding in 2018?
-
 ## Issues with The Data
 
 After looking carefully at the data, the following issues were identified
@@ -73,7 +58,28 @@ The following steps were taken to handle the issues with the datasets
 6. Removed any duplicate records to ensure a high level of data accuracy.
 7. Adding new columns to the dataset to capture additional information and insights.
 8. Performed advanced techniques such as data imputation, outlier detection and handling, and data normalization to further improve the quality of the data.
-9. Rename columns
+9. Rename columns.
+
+## Data Preparation & Cleaning
+During the data preparation and cleaning stage, several steps were taken to ensure the data is ready for analysis. The process was carried out with meticulous attention to detail and aimed to address any issues identified earlier.
+For the 2018 dataset, cleaning involved removing dashes (-) from the amount column. The Amount column also contain two different currencies “Rupees (₹) and US dollar ($) therefore there was a need to convert the rupees into US dollars. Currency symbols and commas were removed from the amount column, and its data type was changed to float to allow for numeric computations. The amounts without currency symbols were assumed to be in dollars ($). Additionally, a new column, Amount ($), was created to hold the converted dollar values, and converted into float.
+For the combined 2019, 2020, and 2021 datasets, each column underwent individual cleaning. Foreign values in the columns were replaced with either 0 or N/A using the df.replace() function. The data types of the columns were adjusted using df.astype(), and missing values (nan) were filled with the desired values using df.fillna(). Repetitive or irrelevant columns were dropped using df.drop(). Incorrectly placed values were moved to their appropriate columns using df.loc and df.to_numpy(). Furthermore, column names were updated using df.rename() to ensure clarity and consistency.
+With the data now prepared and cleaned, it is ready for analysis and to derive meaningful insights from it. The meticulousness of the cleaning process ensures the accuracy and reliability of the subsequent analysis.
+
+
+## Questions
+The following questions were asked to assist in the data analysis process
+
+1. Which company received the most funding?
+2. Which company received the lowest amount of funding?
+3. Which Sector received the highest amount of funding?
+4. Which Sector received the lowest amount of funding?
+5. Which HeadQuarters recorded the highest amount of funding received?
+6. What is the total amount funding received each year?
+7. what is the average amount received in 2019, 2020 and 2021
+8. At what stage do startups receive the most funding?
+9. Does the location affect the funding received?.
+10. Which Sector received the highest funding in 2018?
 
 
 
