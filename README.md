@@ -11,13 +11,9 @@
 
 This This repositiory presents an analysis of funding received by Indian startups from 2018 to 2021 using Exploratory Data Analysis (EDA) techniques. The objective of this analysis was to gain insights into the Indian startup ecosystem, provide valuable information for decision-makers considering entry into the market, and understand the funding and growth patterns of newly launched startups. 
 
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
-|-----------------|-----------------|-----------------|
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
-| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
-
+| Column Name | Project Name | Description | Technology Used | Published Article |
+|-------------|--------------|-------------|-----------------|------------------|
+|LP1 | Indian-Start-up-Funding-Analysis  | Analysing  the funding received by Indian startups from 2018 to 2021 using Exploratory Data Analysis (EDA) techniques| Python, pandas, matplotlib, Jupyter Notebook | [Link to Published Article](https://mavenanalytics.io/project/5938) |
 
 
 
