@@ -1,9 +1,25 @@
+
+
+
+
+
+
 ###### Name: Thibaut Kwadzo Tebi 
 ###### Email : thibaut.tebi@azubiafrica.org 
 
 # Indian-Start-up-Funding-Analysis
 
 This This repositiory presents an analysis of funding received by Indian startups from 2018 to 2021 using Exploratory Data Analysis (EDA) techniques. The objective of this analysis was to gain insights into the Indian startup ecosystem, provide valuable information for decision-makers considering entry into the market, and understand the funding and growth patterns of newly launched startups. 
+
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|-----------------|-----------------|
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
+
+
+
 
 ## Exploratory Data Analysis (EDA)
 Exploratory Data Analysis (EDA) plays a vital role in understanding and extracting insights from datasets. It allows us to uncover patterns, relationships, and key characteristics of the data. The main objective of this project is to utilize the CRISP-DM framework as a guiding framework for conducting exploratory data analysis (EDA) and extracting valuable insights. The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for data processing. 
