@@ -13,7 +13,7 @@ This This repositiory presents an analysis of funding received by Indian startup
 
 | Column Name | Project Name | Description | Technology Used | Published Article |
 |-------------|--------------|-------------|-----------------|------------------|
-|LP1 | Indian-Start-up-Funding-Analysis  | Analysing  the funding received by Indian startups from 2018 to 2021 using Exploratory Data Analysis (EDA) techniques| Python, pandas, matplotlib, Jupyter Notebook | [Link to Published Article](https://mavenanalytics.io/project/5938) |
+|LP1 | Indian-Start-up-Funding-Analysis  | Analysing  the funding received by Indian startups from 2018 to 2021 using Exploratory Data Analysis (EDA) techniques| Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook | [Link to Published Article](https://mavenanalytics.io/project/5938) |
 
 
 
